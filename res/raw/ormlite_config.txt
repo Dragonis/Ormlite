@@ -1,0 +1,23 @@
+#
+# generated on 2014/04/19 11:49:02
+#
+# --table-start--
+dataClass=com.test.ormlite.Note
+tableName=note
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=subject
+# --field-end--
+# --field-start--
+fieldName=text
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
